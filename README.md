@@ -16,8 +16,7 @@ tasks: hazard mapping, vulnerability mapping, risk mapping and identification of
 measures. The outcome provides support for deciding on the most suitable risk
 mitigation strategy, including a risk map and a range of appropriate risk mitigation measures.
 
-This repository contains the source code (`source-code/`), the user manual and tutorial (`docs/`) as well as a ready-to-use ZIP file (`risk-mitigation-qgis-tool.zip`) of the Risk Mitigation Strategy GIS Tool
-of the Risk Mitigation Strategy GIS Tool. You can find more information about the project, resources for the other project components, and learning materials for the GIS tool at: https://humanitarian-risk.unhcr.org/index.php.
+This repository contains the source code (`source-code/`), the user manual and tutorial (`docs/`) as well as a ready-to-use ZIP file (`risk-mitigation-qgis-plugin.zip`) of the Risk Mitigation Strategy GIS Tool. You can find more information about the project, resources for the other project components, and learning materials for the GIS tool at: https://humanitarian-risk.unhcr.org/index.php.
 
 ### When to use the Risk Mitigation Strategy Tool
 This tool helps combining hazard and vulnerability mapping, leading to a risk map and to a risk
@@ -36,7 +35,26 @@ using the tool.
 - If there is no flood hazard in the settlement, this tool is not helpful, as it focuses solely on
 floods and no other natural hazards.
 
-## Installation
+## Using the Tool
+### Compatibility
+The plugin has been developed for QGIS 3.28 LTR. We recommend using this long-term release
+version of QGIS, as it offers optimal stability and compatibility with the plugin.
+
+### Installation
+1. Download the ZIP file `risk-mitigation-qgis-plugin.zip` to your device.
+2. Open QGIS, navigate to `Plugins` >  `Manage and Install Plugins`.
+3. Click on `Install from ZIP`, select the downloaded ZIP folder and press `Install Plugin`.
+4. Click `yes` if a security warning appears.
+5. Return to `Plugins` >  `Installed` and check the box next to "UNHCR Risk Mapping". Ensure that the "Processing" plugin is also selected.
+
+### Setting up the Project
+> ⚠️ Important: The tool must be used with the provided QGIS project file (`UNHCR.qgz`).
+It includes required layers, styling, and pre-configured settings.
+
+1. Download the `base-project.zip` folder to your device and extract its contents.
+2. Open QGIS and load the supplied project (`UNHCR.qgz`)
+3. Upon loading the `UNHCR.qgz` project, you should observe a map and preloaded data in the Layers panel.
+4. Start the tool by pressing `1` in the toolbar.
 
 
 ## How to cite
