@@ -16,7 +16,8 @@ tasks: hazard mapping, vulnerability mapping, risk mapping and identification of
 measures. The outcome provides support for deciding on the most suitable risk
 mitigation strategy, including a risk map and a range of appropriate risk mitigation measures.
 
-This repository contains the source code (`source-code/`) as well as a manual and tutorial (`docs/`) of the Risk Mitigation Strategy GIS Tool. You can find more information about the project, resources for the other project components, and learning materials for the GIS tool at: https://humanitarian-risk.unhcr.org/index.php.
+This repository contains the source code (`source-code/`), the user manual and tutorial (`docs/`) as well as a ready-to-use ZIP file (`risk-mitigation-qgis-tool.zip`) of the Risk Mitigation Strategy GIS Tool
+of the Risk Mitigation Strategy GIS Tool. You can find more information about the project, resources for the other project components, and learning materials for the GIS tool at: https://humanitarian-risk.unhcr.org/index.php.
 
 ### When to use the Risk Mitigation Strategy Tool
 This tool helps combining hazard and vulnerability mapping, leading to a risk map and to a risk
