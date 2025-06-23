@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/plugins/UNHCR" >
+        <file>icon.png</file>
+		<file>icon1.png</file>
+		<file>icon2.png</file>
+		<file>icon3.png</file>
+		<file>icon4.png</file>
+		<file>icon5.png</file>
+		<file>icon6.png</file>
+		<file>icon7.png</file>
+		<file>icon8.png</file>
+		<file>icon9.png</file>
+		<file>icon10.png</file>
+		<file>icon11.png</file>
+		<file>icon12.png</file>
+		<file>icon13.png</file>
+		<file>icon14.png</file>
+		<file>icon15.png</file>
+    </qresource>
+</RCC>
