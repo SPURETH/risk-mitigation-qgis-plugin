@@ -61,3 +61,4 @@ It includes required layers, styling, and pre-configured settings.
 Rohling, Bruna; Kostenwein, David; Gairing, Mona; Nimri, Rama; Al-Mahdawi, Ammar; Schmid, Emilie; Bardou, Eric; Kaufmann, David (2023) Flood Risk in Humanitarian Settlements: Compendium of Mitigation Measures. Zurich: ETH Zürich, UNHCR. DOI: 10.3929/ethz-b-000645680
 
 ## Contact Information
+For questions, feedback, or support, please reach out to ...
